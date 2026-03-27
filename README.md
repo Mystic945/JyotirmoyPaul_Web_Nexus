@@ -3,6 +3,8 @@
 
 A web-based productivity platform designed to eliminate distractions and maximize focus using timed “focus rooms”, task tracking, and behavioral monitoring.
 
+![image alt](https://github.com/arnavryie/JyotirmoyPaul_Web_Nexus/blob/main/hd-digital-art-wallpaper-background_783884-61007.avif)
+
 
 
 📌 Overview
