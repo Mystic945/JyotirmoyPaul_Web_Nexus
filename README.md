@@ -3,6 +3,8 @@
 
 A web-based productivity platform designed to eliminate distractions and maximize focus using timed “focus rooms”, task tracking, and behavioral monitoring.
 
+
+
 📌 Overview
 
 Digital Focus Arena is a smart focus management system that simulates a distraction-free environment for students and professionals.
